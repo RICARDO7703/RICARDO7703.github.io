@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+.informacion-cursos {
+    text-align: center;
+}
+
+
+h3 {
+    color: blue;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+    color: blue;
+}
